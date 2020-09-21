@@ -4,4 +4,4 @@ different coloured pegs, and the code breaker attempts to break the code by gues
 https://en.wikipedia.org/wiki/Mastermind_(board_game).
 
 This script will generate a randomized code based on the user inputs, and will attempt to break it with the minimum number of guesses possible. The algorithm utilizes
-a mixture of the Knuth and Swaszek algorithms.
+a mixture of the Knuth and Swaszek algorithms, combined with an efficient indexing system to reduce memory complexity.
